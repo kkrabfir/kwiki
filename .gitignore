@@ -1,0 +1,15 @@
+# django #
+db.sqlite3
+*.log
+*.pot
+*.pyc
+__pycache__
+media
+
+# python #
+*.py[cod]
+*$py.class
+.venv
+
+# misc #
+*.bak
