@@ -12,4 +12,5 @@ media
 .venv
 
 # misc #
+*.swp
 *.bak

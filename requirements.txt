@@ -7,6 +7,7 @@ django-mptt==0.11.0
 django-nyt==1.1.6
 django-sekizai==2.0.0
 Markdown==3.2.2
+mysqlclient==2.0.1
 packaging==20.7
 Pillow==8.0.1
 pyparsing==2.4.7
